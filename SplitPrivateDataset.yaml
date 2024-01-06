@@ -1,0 +1,8 @@
+path:  SplitPrivateDataset/
+train: train
+val:  test
+
+# Classes
+nc: 1  # number of classes
+names: 
+    - 0: 'licence_plate'
